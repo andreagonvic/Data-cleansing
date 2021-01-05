@@ -16,7 +16,6 @@ En este repositorio encontramos:
 
 
 * Este archivo de texto *README* en el que se explica la estructura general de la entrega.
-* Un archivo de texto *LICENSE* que describe la licencia escogida.
 * Un archivo de lectura *CreditCardDataset.pdf* que desarolla los objetivos y preguntas requeridos por el profesor.
 * Un archivo *CreditCardDataset.ipynb* con el código de ejecución.
 * Un fichero CSV con los datos originales BankChurners.csv
