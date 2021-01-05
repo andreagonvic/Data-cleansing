@@ -19,6 +19,8 @@ En este repositorio encontramos:
 * Un archivo de texto *LICENSE* que describe la licencia escogida.
 * Un archivo de lectura *CreditCardDataset.pdf* que desarolla los objetivos y preguntas requeridos por el profesor.
 * Un archivo *CreditCardDataset.ipynb* con el código de ejecución.
+* Un fichero CSV con los datos originales BankChurners.csv
+* Un fichero CSV con los datos finales analizados BankChurners_cleaned.csv
 
 ## Prerrequisitos 
 Para poder ejecutar el programa que extrae la información deseada es necesario hacer ciertas instalaciones antes.
